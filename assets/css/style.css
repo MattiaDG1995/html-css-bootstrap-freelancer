@@ -66,6 +66,38 @@ i{
     text-align: center;
 }
 
-.sect3 button{
+.dati{
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
 
+.sect4 button{
+    margin-top: 20px;
+}
+
+.box-dati{
+    border-bottom: 1px soli gray;
+}
+
+textarea{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100%;
+}
+
+.sect5{
+    background-color: #3A546D;
+    color: white;
+    text-align: center;
+}
+
+.sect5 span{
+    color: #1ABC9C;
+}
+
+.sect6{
+    background-color: #2C3E50;
+    color: white;
+    text-align: center;
 }
