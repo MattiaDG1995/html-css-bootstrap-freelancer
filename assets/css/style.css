@@ -1,3 +1,71 @@
 .navbar-collapse{
     flex-grow: 0;
 }
+
+.blue{
+    background-color: #2C3E50;
+}
+
+.sect1{
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.container{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.avatar img{
+    width: 100%;
+}
+
+.line-star{
+    height: 3px;
+    width: 90px;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+i{
+    padding: 10px;
+}
+
+.portfolio{
+    text-align: center;
+}
+
+.line-star2{
+    height: 3px;
+    width: 90px;
+    background-color: black;
+}
+
+.sect2 img{
+    width: 100%; 
+}
+
+.sect3{
+    background-color:  #1ABC9C;
+    color: white;
+    padding: ;
+}
+
+.about{
+    text-align: center;
+}
+
+.sect3 button{
+
+}
